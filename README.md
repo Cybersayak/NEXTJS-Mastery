@@ -1,2 +1,2 @@
-# 7JavaScriptGames
-Repo of Javascript Games 
+# NEXTJS 15 Mastery
+## Repo of Learning and Building Application Using NextJS 15
